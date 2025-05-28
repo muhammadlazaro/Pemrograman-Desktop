@@ -1,0 +1,11 @@
+{
+  "version": 2,
+  "dgSpecHash": "NP7GDPyKoxI=",
+  "success": true,
+  "projectFilePath": "C:\\Users\\Muham\\source\\repos\\Desktop\\Desktop\\Desktop.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Muham\\.nuget\\packages\\csvhelper\\33.0.1\\csvhelper.33.0.1.nupkg.sha512",
+    "C:\\Users\\Muham\\.nuget\\packages\\questpdf\\2025.5.0\\questpdf.2025.5.0.nupkg.sha512"
+  ],
+  "logs": []
+}
